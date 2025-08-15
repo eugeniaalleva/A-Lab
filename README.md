@@ -5,4 +5,4 @@ Here to test github pages
 v <- c(1,2,3,4)
 data.frame(v*4)
 ```
-![img.png]
+![img.png](img.png)
