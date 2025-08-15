@@ -11,3 +11,4 @@ kramdown:
 sidebar:
   - getting-started
   - page-2
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
